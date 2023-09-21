@@ -42,6 +42,8 @@
     ]
   },
   "devDependencies": {
-    "@types/styled-components": "^5.1.27"
+    "@types/mime": "^3.0.1",
+    "@types/styled-components": "^5.1.27",
+    "@types/tapable": "^2.2.5"
   }
 }
