@@ -1,21 +1,33 @@
 import styled from "styled-components";
 
-export const DayWebtoonStyle = styled.div`
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
+export const DayWebtoonmainStyle = styled.div`
   width: 100%;
   height: 100%;
-  padding: 10px;
-  background-color: #ffffff;
-  border-radius: 10px;
-  box-shadow: 0px 0px 10px #999999;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  img {
-    width: 158px;
-    height: 205px;
-    border: 1px solid #999999;
+  background-color: #f2f2f2;
+`;
+export const DayWebtoonStyle = styled.div`
+  ul {
+    display: flex;
+    justify-content: left;
+    list-style-type: none;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+    li {
+      width: 160px;
+      height: 259px;
+      margin-right: 10px;
+      img {
+        width: 158px;
+        height: 205px;
+      }
+    }
+  }
+`;
+export const LeftStyle = styled.div`
+  text-align: left;
+  margin: 0px;
+  i {
+    margin-right: 5px;
   }
 `;
