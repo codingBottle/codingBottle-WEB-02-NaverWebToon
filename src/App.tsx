@@ -1,11 +1,13 @@
-import DayWebtoon from "./component/DayWebtoon";
+import DayWebtoon from "./components/DayWebtoon";
+import BestWebtoon from "./components/BestWebtoon";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <DayWebtoon></DayWebtoon>
+        <DayWebtoon />
+        <BestWebtoon />
       </header>
     </div>
   );

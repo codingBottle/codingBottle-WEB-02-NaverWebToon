@@ -3,8 +3,8 @@ import {
   DayWebtoonStyle,
   LeftStyle,
   DayWebtoonmainStyle,
-} from "../styled/DayWebtoon";
-import { MiniTitleText, WeekUp, MainText } from "../styled/TextStyle";
+} from "../styles/DayWebtoonStyle";
+import { MiniTitleText, WeekUp, MainText } from "../styles/TextStyle";
 
 export default function DayWebtoon() {
   return (
