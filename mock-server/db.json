@@ -1,0 +1,20 @@
+{
+  "0": [
+    {
+      "id": 0,
+      "title": "참교육",
+      "author": "채용택",
+      "illustrator": "한가람",
+      "star": "9.87",
+      "url": "https://image-comic.pstatic.net/webtoon/758037/thumbnail/thumbnail_IMAG21_15cb2611-34c0-4f02-a689-41d0b1016579.jpg"
+    },
+    {
+        "id": 1,
+        "title": "뷰티풀 군바리",
+        "author": "설이",
+        "illustrator": "윤성원",
+        "star": "9.81",
+        "url": "https://image-comic.pstatic.net/webtoon/648419/thumbnail/thumbnail_IMAG21_d9398229-cbfd-47dc-9208-0a6fb936f3a7.jpg" 
+    }
+  ]
+}
