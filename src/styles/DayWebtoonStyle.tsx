@@ -10,16 +10,19 @@ export const DayWebtoonStyle = styled.div`
     display: flex;
     justify-content: left;
     list-style-type: none;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     width: 100%;
     height: 100%;
     li {
-      width: 160px;
+      width: 20%;
       height: 259px;
       margin-right: 10px;
       img {
-        width: 158px;
-        height: 205px;
+        width: 100%;
+        height: 12.9375rem;
+        position: relative;
+        border-radius: 4px;
+        overflow: hidden;
       }
     }
   }

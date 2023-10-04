@@ -5,10 +5,16 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <DayWebtoon />
-        <BestWebtoon />
-      </header>
+      <header className="App-header"></header>
+      <h1>dsaf</h1>
+      <div className="Content_wrap">
+        <div className="Leftbox">
+          <DayWebtoon />
+        </div>
+        <div className="Rightbox">
+          <BestWebtoon />
+        </div>
+      </div>
     </div>
   );
 }

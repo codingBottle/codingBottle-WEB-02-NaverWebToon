@@ -31,5 +31,4 @@ export const MainText = styled.div`
   color: #000;
   display: flex;
   align-items: center;
-  padding: 0px 0px 0px 40px;
 `;
