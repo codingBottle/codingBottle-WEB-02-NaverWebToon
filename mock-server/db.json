@@ -744,5 +744,658 @@
       "star": "9.90",
       "url": "https://image-comic.pstatic.net/webtoon/803123/thumbnail/thumbnail_IMAG21_4a7c5fbd-fe54-484c-a2e6-0ec548fbbb5c.jpg"
     }
+  ],
+  "2": [
+    {
+      "id": 0,
+      "title": "너는 그냥 개그만화나 그려라",
+      "author": "조석",
+      "star": "9.94",
+      "url": "https://image-comic.pstatic.net/webtoon/814543/thumbnail/thumbnail_IMAG21_b9d0083f-ced5-4ba8-ac33-c685b96d611a.jpg"
+    },
+    {
+      "id": 1,
+      "title": "김부장",
+      "author": "박태준 만화회사 / 정종택",
+      "star": "9.48",
+      "url": "https://image-comic.pstatic.net/webtoon/783053/thumbnail/thumbnail_IMAG21_d7732f14-26da-4e35-8762-660cc87b53f1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "마루는 강쥐",
+      "author": "모죠",
+      "star": "9.98",
+      "url": "https://image-comic.pstatic.net/webtoon/796152/thumbnail/thumbnail_IMAG21_26b9c1d8-ca2d-4fc7-87ea-a3334634236a.jpg"
+    },
+    {
+      "id": 3,
+      "title": "내가 키운 S급들",
+      "author": "seri / 비완 / 근서",
+      "star": "9.95",
+      "url": "https://image-comic.pstatic.net/webtoon/784248/thumbnail/thumbnail_IMAG21_20a8aca7-23d3-4bc0-9916-a31ebc884ca8.jpg"
+    },
+    {
+      "id": 4,
+      "title": "대학원 탈출일지",
+      "author": "요다",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/790713/thumbnail/thumbnail_IMAG21_3919364435331003700.jpg"
+    },
+    {
+      "id": 5,
+      "title": "멸망 이후의 세계",
+      "author": "S-Cynan / 언데드 감자 / 싱숑",
+      "star": "9.92",
+      "url": "https://image-comic.pstatic.net/webtoon/789979/thumbnail/thumbnail_IMAG21_792cd36e-d722-4970-933b-3da7c37ee812.jpg"
+    },
+    {
+      "id": 6,
+      "title": "사신소년",
+      "author": "류",
+      "star": "9.90",
+      "url": "https://image-comic.pstatic.net/webtoon/730656/thumbnail/thumbnail_IMAG21_fc6d8dbf-eed2-43d0-af45-2edb3cc4244e.jpg"
+    },
+    {
+      "id": 7,
+      "title": "성검전설",
+      "author": "최다킬",
+      "star": "9.95",
+      "url": "https://image-comic.pstatic.net/webtoon/814356/thumbnail/thumbnail_IMAG21_8ab854ac-f59a-4065-9287-cdfc336eb438.jpg"
+    },
+    {
+      "id": 8,
+      "title": "한림체육관",
+      "author": "혜성 / 이석재",
+      "star": "9.77",
+      "url": "https://image-comic.pstatic.net/webtoon/743139/thumbnail/thumbnail_IMAG21_6012f944-ea1f-4328-ba22-bca09be494ee.jpg"
+    },
+    {
+      "id": 9,
+      "title": "천마는 평범하게 살 수 없다",
+      "author": "철범 / 우푸 / 산천",
+      "star": "9.05",
+      "url": "https://image-comic.pstatic.net/webtoon/774358/thumbnail/thumbnail_IMAG21_580067f4-3434-475f-ba51-3bbc86c6ad7d.jpg"
+    },
+    {
+      "id": 10,
+      "title": "용사가 돌아왔다",
+      "author": "나락 / 풍백",
+      "star": "9.51",
+      "url": "https://image-comic.pstatic.net/webtoon/773459/thumbnail/thumbnail_IMAG21_e8b3af6c-d4ed-42c4-9b8d-8c19e766428e.jpg"
+    },
+    {
+      "id": 11,
+      "title": "오늘은 나랑 만나",
+      "author": "네이버웹툰 작가",
+      "star": "9.83",
+      "url": "https://image-comic.pstatic.net/webtoon/817081/thumbnail/thumbnail_IMAG21_439e78c2-e71e-4671-ad2f-703327c0bd8d.jpeg"
+    },
+    {
+      "id": 12,
+      "title": "하루만 네가 되고 싶어",
+      "author": "삼",
+      "star": "9.96",
+      "url": "https://image-comic.pstatic.net/webtoon/738487/thumbnail/thumbnail_IMAG21_66eac5ec-876b-469e-ab05-81261fddde8d.jpg"
+    },
+    {
+      "id": 13,
+      "title": "집이 없어",
+      "author": "와난",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/721433/thumbnail/thumbnail_IMAG21_e14d8057-378c-4208-8531-e82e1dce8dd6.jpg"
+    },
+    {
+      "id": 14,
+      "title": "시한부인 줄 알았어요!",
+      "author": "혜용 / 에시 / 최아리",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/801711/thumbnail/thumbnail_IMAG21_bf581fbe-7d3d-4ff6-bfd3-a973f3c65aa1.jpg"
+    },
+    {
+      "id": 15,
+      "title": "사변괴담",
+      "author": "강태진",
+      "star": "9.92",
+      "url": "https://image-comic.pstatic.net/webtoon/804783/thumbnail/thumbnail_IMAG21_a80f7760-3c93-4002-84d4-eece85593f84.jpg"
+    },
+    {
+      "id": 16,
+      "title": "궤짝",
+      "author": "박태준 만화회사, 주범 / 지노",
+      "star": "9.71",
+      "url": "https://image-comic.pstatic.net/webtoon/802389/thumbnail/thumbnail_IMAG21_2c396e53-5710-47b4-b9ae-0b9582454479.jpg"
+    },
+    {
+      "id": 17,
+      "title": "초인의 게임",
+      "author": "Two-zero / 플랜에이 / 니콜로",
+      "star": "9.95",
+      "url": "https://image-comic.pstatic.net/webtoon/795658/thumbnail/thumbnail_IMAG21_9771c54c-af6a-477c-9243-2b3bb784aae6.jpg"
+    },
+    {
+      "id": 18,
+      "title": "유사연애",
+      "author": "여은",
+      "star": "9.89",
+      "url": "https://image-comic.pstatic.net/webtoon/804653/thumbnail/thumbnail_IMAG21_245d93e8-07c6-4229-9e51-bb813a307610.jpg"
+    },
+    {
+      "id": 19,
+      "title": "도태교실",
+      "author": "황준호",
+      "star": "9.91",
+      "url": "https://image-comic.pstatic.net/webtoon/812161/thumbnail/thumbnail_IMAG21_076b480a-84eb-46be-b6b0-906e66902f68.jpg"
+    },
+    {
+      "id": 20,
+      "title": "삼국지톡",
+      "author": "무적핑크 / 이리",
+      "star": "9.89",
+      "url": "https://image-comic.pstatic.net/webtoon/711422/thumbnail/thumbnail_IMAG21_fd8cb5db-01ab-4c7b-a2a9-920d4479d5f7.jpg"
+    },
+    {
+      "id": 21,
+      "title": "로맨스 당도 백퍼센트",
+      "author": "이동건",
+      "star": "9.94",
+      "url": "https://image-comic.pstatic.net/webtoon/814398/thumbnail/thumbnail_IMAG21_23b64b71-1d91-4326-982c-1480462c01e6.jpg"
+    },
+    {
+      "id": 22,
+      "title": "호랑이 들어와요",
+      "author": "배세혁 / 유은",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/757904/thumbnail/thumbnail_IMAG21_f3e09476-b052-4599-b619-4b2aba154143.jpg"
+    },
+    {
+      "id": 23,
+      "title": "하북팽가 막내아들",
+      "author": "스튜디오M / 기원 / 무향",
+      "star": "9.84",
+      "url": "https://image-comic.pstatic.net/webtoon/783877/thumbnail/thumbnail_IMAG21_3904965231037146418.jpg"
+    },
+    {
+      "id": 24,
+      "title": "포 더 퀸덤",
+      "author": "로즈옹",
+      "star": "9.93",
+      "url": "https://image-comic.pstatic.net/webtoon/812414/thumbnail/thumbnail_IMAG21_d6cbf0a2-9f22-4f8a-b3f9-411e39804dee.jpg"
+    },
+    {
+      "id": 25,
+      "title": "놓지마 정신줄 시즌3",
+      "author": "신태훈 / 나승훈",
+      "star": "9.94",
+      "url": "https://image-comic.pstatic.net/webtoon/801589/thumbnail/thumbnail_IMAG21_1b439234-e17d-4fb8-9eef-5d2d4173234c.jpg"
+    },
+    {
+      "id": 26,
+      "title": "저 그런 인재 아닙니다",
+      "author": "에몽 / 머나 / 덴피",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/802840/thumbnail/thumbnail_IMAG21_1ae41652-be65-4c1d-be08-8df716aaa41c.jpg"
+    },
+    {
+      "id": 27,
+      "title": "올가미",
+      "author": "해무리",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/732988/thumbnail/thumbnail_IMAG21_eda8ea4b-fdc8-411d-9f28-09e450cc06c5.jpg"
+    },
+    {
+      "id": 28,
+      "title": "이섭의 연애",
+      "author": "248 / 김언희",
+      "star": "9.96",
+      "url": "https://image-comic.pstatic.net/webtoon/813454/thumbnail/thumbnail_IMAG21_5bb6458f-1629-4e91-bbbd-c8c3bca738b8.jpg"
+    },
+    {
+      "id": 29,
+      "title": "원주민 공포만화",
+      "author": "원주민",
+      "star": "9.86",
+      "url": "https://image-comic.pstatic.net/webtoon/698918/thumbnail/thumbnail_IMAG21_3689346629442483042.jpg"
+    },
+    {
+      "id": 30,
+      "title": "체탐자",
+      "author": "병장 / 해성",
+      "star": "9.94",
+      "url": "https://image-comic.pstatic.net/webtoon/814834/thumbnail/thumbnail_IMAG21_6e0ec9df-5747-4cbf-a083-7b13ce5f9741.jpg"
+    },
+    {
+      "id": 31,
+      "title": "신입사원 김철수",
+      "author": "스튜디오MW / 권다희 / 오정",
+      "star": "9.83",
+      "url": "https://image-comic.pstatic.net/webtoon/812594/thumbnail/thumbnail_IMAG21_7dd78989-bb75-49e9-baa9-cbc5e918af00.jpg"
+    },
+    {
+      "id": 32,
+      "title": "랜덤채팅의 그녀!",
+      "author": "박은혁",
+      "star": "9.20",
+      "url": "https://image-comic.pstatic.net/webtoon/702608/thumbnail/thumbnail_IMAG21_7005692479348499809.jpg"
+    },
+    {
+      "id": 33,
+      "title": "백씨세가 시한부 공자",
+      "author": "단박 / 과장 / 비도",
+      "star": "9.91",
+      "url": "https://image-comic.pstatic.net/webtoon/814535/thumbnail/thumbnail_IMAG21_20cd5f4e-09d2-4ebc-be63-c3368c46354f.jpg"
+    },
+    {
+      "id": 34,
+      "title": "우리 집 고양이 보고 갈래?",
+      "author": "삼태",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/805743/thumbnail/thumbnail_IMAG21_07ec1df5-1d1b-41e9-8507-d8bed34fc5c7.jpg"
+    },
+    {
+      "id": 35,
+      "title": "시체기사 군터",
+      "author": "마요너구리",
+      "star": "9.93",
+      "url": "https://image-comic.pstatic.net/webtoon/798326/thumbnail/thumbnail_IMAG21_b64bc0f5-24d2-4c78-8654-bd2b08860108.jpg"
+    },
+    {
+      "id": 36,
+      "title": "이상형",
+      "author": "배사과",
+      "star": "9.78",
+      "url": "https://image-comic.pstatic.net/webtoon/814298/thumbnail/thumbnail_IMAG21_7896dd49-b0c2-4f5d-9505-aa576656a919.jpg"
+    },
+    {
+      "id": 37,
+      "title": "윌유메리미",
+      "author": "마인드C",
+      "star": "9.92",
+      "url": "https://image-comic.pstatic.net/webtoon/616239/thumbnail/thumbnail_IMAG21_7c320dd0-7f6e-4645-b82b-e46752ed7375.jpg"
+    },
+    {
+      "id": 38,
+      "title": "신과함께 돌아온 기사왕님",
+      "author": "지대공마법소년 / 전천후마검사 / 사람살려.",
+      "star": "4.88",
+      "url": "https://image-comic.pstatic.net/webtoon/809618/thumbnail/thumbnail_IMAG21_118a7124-11b6-4eed-b04a-20ee139256c1.jpg"
+    },
+    {
+      "id": 39,
+      "title": "집착남주의 전부인이 되었습니다",
+      "author": "하담 / 꿀생강 / 퍼젤",
+      "star": "9.72",
+      "url": "https://image-comic.pstatic.net/webtoon/813922/thumbnail/thumbnail_IMAG21_df1e3434-59bd-454c-9e3c-ee99bf8408ea.jpg"
+    },
+    {
+      "id": 40,
+      "title": "짝사랑의 마침표",
+      "author": "숭어",
+      "star": "9.96",
+      "url": "https://image-comic.pstatic.net/webtoon/789682/thumbnail/thumbnail_IMAG21_764560de-de68-45ee-816f-fe376fbe4f60.jpg"
+    },
+    {
+      "id": 41,
+      "title": "거짓말의 뉘앙스",
+      "author": "사즈",
+      "star": "9.86",
+      "url": "https://image-comic.pstatic.net/webtoon/809261/thumbnail/thumbnail_IMAG21_b2d4a5c0-3026-4560-b3ee-add80e181536.jpg"
+    },
+    {
+      "id": 42,
+      "title": "하우스키퍼",
+      "author": "채용택 / 유현",
+      "star": "9.96",
+      "url": "https://image-comic.pstatic.net/webtoon/723046/thumbnail/thumbnail_IMAG21_c9dc9f1e-6e34-4ae8-9ea3-e94dda2dbef5.jpg"
+    },
+    {
+      "id": 43,
+      "title": "로잘린 보가트",
+      "author": "삼월에 / 마하 / 하노HANO",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/797582/thumbnail/thumbnail_IMAG21_c1588ed1-f012-4592-ae45-ff9b177fe9f9.jpg"
+    },
+    {
+      "id": 44,
+      "title": "빅맨",
+      "author": "하하영",
+      "star": "9.74",
+      "url": "https://image-comic.pstatic.net/webtoon/753839/thumbnail/thumbnail_IMAG21_3835153067459896165.jpg"
+    },
+    {
+      "id": 45,
+      "title": "빌런투킬",
+      "author": "퓨핀 / 은지",
+      "star": "9.92",
+      "url": "https://image-comic.pstatic.net/webtoon/765156/thumbnail/thumbnail_IMAG21_09f17695-7f1a-43c1-9515-3debf026e2ed.jpg"
+    },
+    {
+      "id": 46,
+      "title": "사표내고 이계에서 힐링합니다",
+      "author": "덤보 / 파란 / 딥블랙",
+      "star": "9.94",
+      "url": "https://image-comic.pstatic.net/webtoon/800726/thumbnail/thumbnail_IMAG21_f8d6b47c-3af0-49ef-9aa7-3b6ea28e4aa8.jpg"
+    },
+    {
+      "id": 47,
+      "title": "미워할 거야",
+      "author": "만보",
+      "star": "9.75",
+      "url": "https://image-comic.pstatic.net/webtoon/816818/thumbnail/thumbnail_IMAG21_438216c4-efb8-4972-88ff-8b7693f0079c.jpg"
+    },
+    {
+      "id": 48,
+      "title": "연우의 순정",
+      "author": "이솔",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/752532/thumbnail/thumbnail_IMAG21_e0dbfa33-e13c-4adc-bf63-a5b26b4a2a3e.jpg"
+    },
+    {
+      "id": 49,
+      "title": "흑역사 어게인",
+      "author": "안수민",
+      "star": "9.91",
+      "url": "https://image-comic.pstatic.net/webtoon/814817/thumbnail/thumbnail_IMAG21_444e5c19-39a5-493c-aa6f-5892ccda22b1.jpg"
+    },
+    {
+      "id": 50,
+      "title": "짐승의 꽃",
+      "author": "하브린 / 옆집찰스 / 황도톨",
+      "star": "9.94",
+      "url": "https://image-comic.pstatic.net/webtoon/805334/thumbnail/thumbnail_IMAG21_1a7f9687-e04f-4ac8-8f50-ac58275a2295.jpg"
+    },
+    {
+      "id": 51,
+      "title": "해골협객",
+      "author": "성불예정 / 준1",
+      "star": "9.11",
+      "url": "https://image-comic.pstatic.net/webtoon/808388/thumbnail/thumbnail_IMAG21_741d216d-75b8-4a81-93c5-1f6d6f697ed2.jpg"
+    },
+    {
+      "id": 52,
+      "title": "애옹식당",
+      "author": "정다정",
+      "star": "9.96",
+      "url": "https://image-comic.pstatic.net/webtoon/785703/thumbnail/thumbnail_IMAG21_020a4de1-984b-4343-8735-55970b9fda68.jpg"
+    },
+    {
+      "id": 53,
+      "title": "웅크",
+      "author": "나유진",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/800506/thumbnail/thumbnail_IMAG21_21640049-34da-44e5-82d7-bbb7aca3a3f8.jpg"
+    },
+    {
+      "id": 54,
+      "title": "은주의 방 2~3부",
+      "author": "노란구미",
+      "star": "9.94",
+      "url": "https://image-comic.pstatic.net/webtoon/654138/thumbnail/thumbnail_IMAG21_3559587746721839161.jpg"
+    },
+    {
+      "id": 55,
+      "title": "에이머",
+      "author": "구동인",
+      "star": "9.80",
+      "url": "https://image-comic.pstatic.net/webtoon/400739/thumbnail/thumbnail_IMAG21_b5046846-5af7-48a9-9b20-b0b07cf0c904.jpeg"
+    },
+    {
+      "id": 56,
+      "title": "왕게임",
+      "author": "신형욱 / 범고래",
+      "star": "9.85",
+      "url": "https://image-comic.pstatic.net/webtoon/798101/thumbnail/thumbnail_IMAG21_766e3761-228a-4c04-97b8-6f0ef13cf35b.jpg"
+    },
+    {
+      "id": 57,
+      "title": "헥토파스칼",
+      "author": "버퍼링 / 길성근",
+      "star": "9.90",
+      "url": "https://image-comic.pstatic.net/webtoon/799250/thumbnail/thumbnail_IMAG21_04fec725-d0f1-4434-990d-ada248a1e95d.jpg"
+    },
+    {
+      "id": 58,
+      "title": "반대로 끌리는 사이",
+      "author": "한구",
+      "star": "9.96",
+      "url": "https://image-comic.pstatic.net/webtoon/808454/thumbnail/thumbnail_IMAG21_5bd6216a-9baa-4859-bc6e-3f224badb74a.jpg"
+    },
+    {
+      "id": 59,
+      "title": "로맨스가 가능해?",
+      "author": "임주이 / 송정원",
+      "star": "9.96",
+      "url": "https://image-comic.pstatic.net/webtoon/803010/thumbnail/thumbnail_IMAG21_39c36855-22e9-43eb-b0af-65fe8204d568.jpg"
+    },
+    {
+      "id": 60,
+      "title": "그냥 선생님",
+      "author": "연일",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/804333/thumbnail/thumbnail_IMAG21_b39d8b31-ca85-492f-8588-c766aa2b3c27.jpg"
+    },
+    {
+      "id": 61,
+      "title": "내남친 킹카만들기",
+      "author": "랑쓰 / 섯끼",
+      "star": "9.88",
+      "url": "https://image-comic.pstatic.net/webtoon/791126/thumbnail/thumbnail_IMAG21_b3c5cfcc-aba4-4ba6-b010-8c740c2cbc85.jpg"
+    },
+    {
+      "id": 62,
+      "title": "배드 엔딩 메이커",
+      "author": "오일구 / 심재영 / 류은가람",
+      "star": "9.91",
+      "url": "https://image-comic.pstatic.net/webtoon/812017/thumbnail/thumbnail_IMAG21_81b7c01e-af62-44de-af3f-9010104f9843.jpg"
+    },
+    {
+      "id": 63,
+      "title": "랜덤타겟",
+      "author": "이니 / 정유한",
+      "star": "9.93",
+      "url": "https://image-comic.pstatic.net/webtoon/807582/thumbnail/thumbnail_IMAG21_1c7a2387-173f-4def-8764-f3060c169275.jpg"
+    },
+    {
+      "id": 64,
+      "title": "그 남학생에게 고백하지 마십시오",
+      "author": "도희권",
+      "star": "9.88",
+      "url": "https://image-comic.pstatic.net/webtoon/814885/thumbnail/thumbnail_IMAG21_d51ba02b-f270-46f5-9a92-fc5257f4665a.jpg"
+    },
+    {
+      "id": 65,
+      "title": "주인님을 잡아먹는 방법",
+      "author": "세인 / 차혜영",
+      "star": "9.96",
+      "url": "https://image-comic.pstatic.net/webtoon/794105/thumbnail/thumbnail_IMAG21_bc1d4038-94fc-428c-8e78-e2cb9ab3643e.jpg"
+    },
+    {
+      "id": 66,
+      "title": "윗집 그 남자",
+      "author": "핸저 아트",
+      "star": "9.92",
+      "url": "https://image-comic.pstatic.net/webtoon/809579/thumbnail/thumbnail_IMAG21_424dd48b-0c3d-4100-8fa9-cd37f95e81aa.jpg"
+    },
+    {
+      "id": 67,
+      "title": "폭군의 심장을 쥐었다",
+      "author": "아리 / Nobena / 유세유",
+      "star": "9.87",
+      "url": "https://image-comic.pstatic.net/webtoon/813121/thumbnail/thumbnail_IMAG21_4d99dac0-e646-4c42-ba34-25dc3f5fa405.jpg"
+    },
+    {
+      "id": 68,
+      "title": "제로게임",
+      "author": "즐바센",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/676695/thumbnail/thumbnail_IMAG21_68b97d1b-2b65-4b2c-a5a0-6aa60d4602de.jpg"
+    },
+    {
+      "id": 69,
+      "title": "렌탈히어로",
+      "author": "포르토 / 코벳",
+      "star": "9.74",
+      "url": "https://image-comic.pstatic.net/webtoon/808804/thumbnail/thumbnail_IMAG21_2af53eb3-eb52-40e7-b1d9-7b4fccfba9af.jpg"
+    },
+    {
+      "id": 70,
+      "title": "아이즈",
+      "author": "정썸머",
+      "star": "9.94",
+      "url": "https://image-comic.pstatic.net/webtoon/767908/thumbnail/thumbnail_IMAG21_133544d1-6655-47ac-99ce-00da2f3cdc17.jpg"
+    },
+    {
+      "id": 71,
+      "title": "못 잡아먹어서 안달",
+      "author": "팀 보도뵈 / 퀀퀀 / 플아다",
+      "star": "9.68",
+      "url": "https://image-comic.pstatic.net/webtoon/817247/thumbnail/thumbnail_IMAG21_24857d8d-df9b-42c7-a34b-4618de4ba258.jpg"
+    },
+    {
+      "id": 72,
+      "title": "팀장님은 신혼이 피곤하다",
+      "author": "장그린 / 강하다",
+      "star": "9.92",
+      "url": "https://image-comic.pstatic.net/webtoon/804868/thumbnail/thumbnail_IMAG21_ea78afa0-0987-46e8-901c-6f0aef44bc0c.jpg"
+    },
+    {
+      "id": 73,
+      "title": "여우자매",
+      "author": "갈치",
+      "star": "9.93",
+      "url": "https://image-comic.pstatic.net/webtoon/797413/thumbnail/thumbnail_IMAG21_f04539ee-5166-4337-bd33-10f41d2713fa.jpg"
+    },
+    {
+      "id": 74,
+      "title": "우투리: THE LEGACY",
+      "author": "이재헌 / 홍기우",
+      "star": "9.85",
+      "url": "https://image-comic.pstatic.net/webtoon/797819/thumbnail/thumbnail_IMAG21_2efb3bf2-b392-4c9d-8662-f0c493ddafe3.jpg"
+    },
+    {
+      "id": 75,
+      "title": "이 결혼, 새로고침",
+      "author": "영 / 다프네 박 / 핑크티",
+      "star": "9.80",
+      "url": "https://image-comic.pstatic.net/webtoon/797259/thumbnail/thumbnail_IMAG21_4135202076969481273.jpg"
+    },
+    {
+      "id": 76,
+      "title": "착한 여자 안선해",
+      "author": "선우",
+      "star": "9.85",
+      "url": "https://image-comic.pstatic.net/webtoon/812576/thumbnail/thumbnail_IMAG21_91557fba-c1c9-4391-a066-2f43f44a4608.jpg"
+    },
+    {
+      "id": 77,
+      "title": "필리아로제 - 가시왕관의 예언",
+      "author": "백화등 / Ryuta / 김영지",
+      "star": "9.97",
+      "url": "https://image-comic.pstatic.net/webtoon/773793/thumbnail/thumbnail_IMAG21_06d14210-4e71-4ae1-97a7-62071c3e90bc.jpg"
+    },
+    {
+      "id": 78,
+      "title": "햄버거가 제일 좋아",
+      "author": "용현 / 민국",
+      "star": "9.95",
+      "url": "https://image-comic.pstatic.net/webtoon/801820/thumbnail/thumbnail_IMAG21_82855003-8d89-45b6-8a8b-55c4cbbd8ad2.jpg"
+    },
+    {
+      "id": 79,
+      "title": "붉은 이정표",
+      "author": "달뜬",
+      "star": "9.89",
+      "url": "https://image-comic.pstatic.net/webtoon/790776/thumbnail/thumbnail_IMAG21_683f454e-5f7a-416b-936b-8a06cb1c3cae.jpeg"
+    },
+    {
+      "id": 80,
+      "title": "원포인트",
+      "author": "잇",
+      "star": "9.84",
+      "url": "https://image-comic.pstatic.net/webtoon/807314/thumbnail/thumbnail_IMAG21_176143e6-3d43-495d-b60e-4dae06bc10e2.jpg"
+    },
+    {
+      "id": 81,
+      "title": "자매의 사생활",
+      "author": "조주희 / 뉘롬",
+      "star": "9.88",
+      "url": "https://image-comic.pstatic.net/webtoon/812121/thumbnail/thumbnail_IMAG21_8d4a2ffb-4ce5-4a27-8554-462ae7055592.jpg"
+    },
+    {
+      "id": 82,
+      "title": "공작저의 붉은 밤",
+      "author": "H.C / 타샤토토 / 유세라",
+      "star": "9.06",
+      "url": "https://image-comic.pstatic.net/webtoon/805671/thumbnail/thumbnail_IMAG21_8be4a557-d691-48b1-8445-199e6c0c5dbd.jpg"
+    },
+    {
+      "id": 83,
+      "title": "은밀한 재택근무",
+      "author": "굴닭 / 타단 / 주황연",
+      "star": "9.89",
+      "url": "https://image-comic.pstatic.net/webtoon/807858/thumbnail/thumbnail_IMAG21_6f8082ba-9afe-491f-98d6-8b7b7fafb991.jpg"
+    },
+    {
+      "id": 84,
+      "title": "뿌리를 찾아서",
+      "author": "유승진",
+      "star": "9.27",
+      "url": "https://image-comic.pstatic.net/webtoon/815272/thumbnail/thumbnail_IMAG21_03160f7c-5ce1-4444-8a7b-e8a16fbc5ba1.jpg"
+    },
+    {
+      "id": 85,
+      "title": "대리게임",
+      "author": "철준",
+      "star": "8.89",
+      "url": "https://image-comic.pstatic.net/webtoon/809263/thumbnail/thumbnail_IMAG21_10493e4c-e4b5-4aac-b1ed-4acd07879e54.jpg"
+    },
+    {
+      "id": 86,
+      "title": "돌격! 용마치킨",
+      "author": "팀 오누이",
+      "star": "9.86",
+      "url": "https://image-comic.pstatic.net/webtoon/805974/thumbnail/thumbnail_IMAG21_7794debf-da11-42fd-9126-13723f239794.jpg"
+    },
+    {
+      "id": 87,
+      "title": "죽었던 너와 다시 시작하기",
+      "author": "히우",
+      "star": "9.89",
+      "url": "https://image-comic.pstatic.net/webtoon/812731/thumbnail/thumbnail_IMAG21_e79b69fe-3380-49e2-a3af-ac2b7b42f055.jpg"
+    },
+    {
+      "id": 88,
+      "title": "동경과 거짓말",
+      "author": "오한",
+      "star": "9.96",
+      "url": "https://image-comic.pstatic.net/webtoon/809006/thumbnail/thumbnail_IMAG21_5f9fb10f-61bf-45bb-82cd-834b4252975f.jpg"
+    },
+    {
+      "id": 89,
+      "title": "왕자님 짠내밥상",
+      "author": "쑥",
+      "star": "9.68",
+      "url": "https://image-comic.pstatic.net/webtoon/810561/thumbnail/thumbnail_IMAG21_b93e29dc-335c-4c38-afa9-074c581273cc.jpg"
+    },
+    {
+      "id": 90,
+      "title": "DARK MOON: 회색 도시",
+      "author": "HYBE",
+      "star": "9.76",
+      "url": "https://image-comic.pstatic.net/webtoon/802872/thumbnail/thumbnail_IMAG21_c80f6d62-0971-4806-9aa5-9cc0d9e5599e.jpg"
+    },
+    {
+      "id": 91,
+      "title": "너의 순정, 나의 순정",
+      "author": "정살",
+      "star": "9.86",
+      "url": "https://image-comic.pstatic.net/webtoon/797258/thumbnail/thumbnail_IMAG21_7293970135255232568.jpg"
+    },
+    {
+      "id": 92,
+      "title": "AI 유하",
+      "author": "박현 / 지홍주",
+      "star": "9.76",
+      "url": "https://image-comic.pstatic.net/webtoon/800400/thumbnail/thumbnail_IMAG21_bb74c497-7fa9-48c2-9f4f-4438317ff0c8.jpg"
+    }
   ]
 }
