@@ -17,16 +17,23 @@
 
 .App-link {
   color: #61dafb;
+}
+.container{
+  margin-left: auto;
+  margin-right: auto;
+  width:1190px;
+}
 .Content_wrap{
   display: flex;
   justify-content: space-between;
+
   margin-top: 45px;
 }
 
-
 .Leftbox{
   width: 840px;
+
 }
 .Rightbox{
   width: 300px;
-}}
+}

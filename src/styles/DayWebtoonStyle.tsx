@@ -8,6 +8,7 @@ export const DayWebtoonmainStyle = styled.div`
 export const DayWebtoonStyle = styled.div`
   ul {
     display: flex;
+    padding: 0px;
     justify-content: left;
     list-style-type: none;
     flex-wrap: nowrap;
@@ -17,6 +18,7 @@ export const DayWebtoonStyle = styled.div`
       width: 20%;
       height: 259px;
       margin-right: 10px;
+
       img {
         width: 100%;
         height: 12.9375rem;

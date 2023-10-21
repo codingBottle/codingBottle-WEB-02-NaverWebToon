@@ -9,9 +9,6 @@ import { MiniTitleText, WeekUp, MainText } from "../styles/TextStyle";
 export default function DayWebtoon() {
   return (
     <DayWebtoonmainStyle>
-      <MainText>
-        우헹헹님, 이 웹툰들 최신 이야기를 놓치고 계신 것 같아요!
-      </MainText>
       <DayWebtoonStyle>
         <ul>
           {Array.from({ length: 5 }, (_, index) => (
