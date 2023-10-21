@@ -4,7 +4,7 @@ import { BestWebtoonmainStyle } from "../styles/BestWebtoonStyle";
 
 export default function BestWebtoon() {
   return (
-    <div style={{ width: "100%" }}>
+    <div style={{ width: "95%" }}>
       <BestWebtoonmainStyle>
         <div>
           <h2

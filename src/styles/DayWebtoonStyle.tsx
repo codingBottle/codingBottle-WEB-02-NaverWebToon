@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const DayWebtoonmainStyle = styled.div`
   width: 100%;
   height: 100%;
-  background-color: #f2f2f2;
+  background-color: white;
 `;
 export const DayWebtoonStyle = styled.div`
   ul {

@@ -2,12 +2,17 @@ import React from "react";
 import DayWebtoon from "./components/DayWebtoon";
 import BestWebtoon from "./components/BestWebtoon";
 import "./App.css";
+import WebtoonNav from "./components/WebtoonNav";
+import HotWeebtoon from "./components/HotWebtoon";
 import { MainText } from "./styles/TextStyle";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header"></header>
+      <WebtoonNav />
+      <HotWeebtoon />
+
       <div className="container">
         <div className="Content_wrap">
           <div className="Leftbox">
